@@ -32,6 +32,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 
 
 <br />
