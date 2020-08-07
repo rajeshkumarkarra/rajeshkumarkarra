@@ -27,7 +27,7 @@
 [<img align="left" alt="React" width="26px" src="https://www.pngkey.com/png/detail/96-961478_in-order-to-show-how-holoviews-works-well.png" />][website]
 [<img align="left" alt="Gatsby" width="36px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://www.fromthegenesis.com/wp-content/uploads/2018/11/seaborn.jpg" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://pypi.org/static/images/logo-small.6eef541e.svg" />][website]
 [<img align="left" alt="Deno" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
