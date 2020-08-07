@@ -11,10 +11,9 @@
 
 [<img align="left" alt="kaggle.com | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
 [<img align="left" alt="github.com" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="twitter | Twitter" width="25px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][instagram]
 
 
 <br />
