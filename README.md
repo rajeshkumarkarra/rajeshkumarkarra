@@ -46,6 +46,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+---
+<img align ="left alt = "rajeshkumarkarra's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=rajeshkumarkarra&show_icons=true&hide_border=true" />
 
 
 [website]: https://www.kaggle.com/rajeshkumarkarra
