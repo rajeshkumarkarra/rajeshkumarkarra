@@ -1,7 +1,7 @@
 ### Hi there, I'm Rajeshkumar Karra [Data Scientist][website] 👋
 
 ## I'm a Husband, Father and a Developer!
-- 🔭 I’m currently working on a [Kaggle Competition ][website]!
+- 🔭 I’m currently working on a [Kaggle Competitions ][website]!
 - 🌱 I’m currently learning AI, ML and QML 🤣
 - 👯 I’m looking to participate Qiskit community to contribute
 - 🥅 2020 Goals: Contribute more to Open Source projects
