@@ -53,6 +53,10 @@
 ---
 <img align ="left" alt = "rajeshkumarkarra's Github Stats" src ="https://github-readme-stats.vercel.app/api?username=rajeshkumarkarra&show_icons=true&hide_border=true" />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarkarra&layout=compact)](https://github.com/rajeshkumarkarra/github-readme-stats)
+
 
 [website]: https://www.kaggle.com/rajeshkumarkarra
 [twitter]: https://twitter.com/RajeshK88684653
