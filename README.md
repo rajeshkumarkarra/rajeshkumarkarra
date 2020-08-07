@@ -22,7 +22,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" />][qiskit]
-[<img align="left" alt="Sass" width="26px" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-quantum-logo-social.png" />][website]
+[<img align="left" alt="Sass" width="36px" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-quantum-logo-social.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" />][website]
 [<img align="left" alt="Gatsby" width="26px" src="https://images.squarespace-cdn.com/content/v1/5268c662e4b0269256614e9a/1562312824569-6LDHKN3X0QPA2ON2CPGZ/ke17ZwdGBToddI8pDm48kP06O0_IHyRXSOOiqwgWaApZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEsL0EX72Q6S7TgfQYQBQpkz5xM6Qt8VXd_xJGg_ziCFib8BodarTVrzIWCp72ioWw/pandas-logo-300.png" />][website]
