@@ -22,7 +22,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" />][qiskit]
-[<img align="left" alt="Sass" width="46px" src="https://yt3.ggpht.com/a/AATXAJx8LkHvX8Lm2xFI3cM7Y6DaBrfEvGTkwyGM_pvG-Q=s900-c-k-c0xffffffff-no-rj-mo" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://miro.medium.com/max/1000/1*wF2ybRQ2p7F6JI1730DxHA.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://www.pngkey.com/png/detail/96-961478_in-order-to-show-how-holoviews-works-well.png" />][website]
 [<img align="left" alt="Gatsby" width="36px" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png" />][website]
