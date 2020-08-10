@@ -1,4 +1,7 @@
-### Hi there, I'm Rajeshkumar Karra [Data Scientist][website] 👋
+## Hi there 👋 
+[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/RajeshK88684653)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Rajeshkumar%20Karra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/rajeshkumar-karra-168657b1/)
+
 
 ## I'm a Husband, Father and a Developer!
 - 🔭 I’m currently working on a [Kaggle Competitions ][website]!
