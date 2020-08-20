@@ -1,6 +1,6 @@
 ## Hi there 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/k_rajesh_kumar)
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Rajeshkumar%20Karra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/rajeshkumarkarra/)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Rajeshkumar%20Karra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](www.linkedin.com/in/rajeshkumarkarra)
 
 
 ## My name is Rajeshkumar Karra (he/him)!
