@@ -71,7 +71,7 @@
 [website]: https://www.kaggle.com/rajeshkumarkarra
 [twitter]: https://twitter.com/k_rajesh_kumar
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/rajeshkarraq/
+[instagram]: https://www.instagram.com/rajeshkumar_karra/
 [linkedin]: https://www.linkedin.com/in/rajeshkumarkarra/
 [github]: https://github.com/rajeshkumarkarra
 [qiskit]: https://github.com/rajeshkumarkarra/qiskit?organization=rajeshkumarkarra&organization=rajeshkumarkarra
