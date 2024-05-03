@@ -12,9 +12,9 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 # Core Skills
 
 ### Physics/Quantum Computing					
-* IBM Qiskit							* 
-* FORTRAN							* 
-* ROOT Library(CERN)						* 
+* IBM Qiskit							
+* FORTRAN							 
+* ROOT Library(CERN)						 
 * Haskell
 ### Computer Science
 * Python, Django, Java, Scikit-Learn
