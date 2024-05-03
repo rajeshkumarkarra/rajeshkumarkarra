@@ -11,7 +11,7 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 # Core Skills
 
-## Physics/Quantum Computing					Computer Science
+### Physics/Quantum Computing					Computer Science
 ..*IBM Qiskit							..*Python, Django, Java, Scikit-Learn
 ..*FORTRAN							..*Pandas, NumPy, Matplotlib
 ..*ROOT Library(CERN)						..*JupyterLab, Heroku, Git, aws
@@ -21,16 +21,16 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 # Education
 
-## BSc (hons) - Mathematics, Physics and Computer Science (First-class - 7.8) | Aug 2021 - June 2024 |
+### BSc (hons) - Mathematics, Physics and Computer Science (First-class - 7.8) | Aug 2021 - June 2024 |
 Osmania University | Hindi Mahavidyalaya |
 Modules included:
 Physics - 70%
 Mathematics - 60%
 Computer Science - 60%
 
-## Final year project: “Quantum optimization challenge - Get your starship out of a sticky situation!”
+### Final year project: “Quantum optimization challenge - Get your starship out of a sticky situation!”
 
-## 4 x A Levels / HSC  (grades AABC) - 57.33% | June 2002 - May 2004 |
+### 4 x A Levels / HSC  (grades AABC) - 57.33% | June 2002 - May 2004 |
 Board of Intermediate | SAV & NV Junior college | 
 Subjects included:
 Mathematics - C
@@ -38,14 +38,14 @@ Physics - B
 Chemistry - A
 Biology - A
 
-## 12 x GCSs/SSC (grades A-C) - 57.16% | June 2001 to June 2002 |
+### 12 x GCSs/SSC (grades A-C) - 57.16% | June 2001 to June 2002 |
 Board of Secondary Education | Thakshashila Vidya Mandir
 
 # Career Summary
 
 
-Jan 2018 - Dec 2020				LNP & Co., Chartered Accountants.
-						System Admin.
+### Jan 2018 - Dec 2020				LNP & Co., Chartered Accountants.
+						**System Admin.**
 
 Outline
 
@@ -57,8 +57,8 @@ User Management and Support
 Network Administration
 Security
 
-Dec 2014 - Dec 2017				Healthii Curves.
-						Accounts In-charge.
+### Dec 2014 - Dec 2017				Healthii Curves.
+						**Accounts In-charge.**
 
 Outline
 
@@ -71,8 +71,8 @@ Administrative tasks: Maintain accurate client records, manage sales pipelines, 
 Time management and organizational skills: Manage multiple accounts, prioritize tasks effectively, and meet deadlines consistently.
 
 
-June  2013 - June 2014				Future e-Learning Resources.
-						SEO(Search Engine Optimization).
+### June  2013 - June 2014				Future e-Learning Resources.
+						**SEO(Search Engine Optimization).**
 
 Outline
 
@@ -88,8 +88,8 @@ Collaboration.
 
 
 
-June 2007 - April 2012				LNP & Co., Chartered Accountants.
-						Audit Executive.
+### June 2007 - April 2012				LNP & Co., Chartered Accountants.
+						**Audit Executive.**
 
 Outline
 
@@ -106,7 +106,7 @@ Stay Up-to-Date on Regulations and Standards
 Maintain Audit Quality
 
 
-June 2004 -March 2007			xxxxxxxxxxxxxxxxxxxxxxxxxx
+### June 2004 -March 2007			xxxxxxxxxxxxxxxxxxxxxxxxxx
 						xxxxxxxxxxxxxxxxx.
 
 Outline
