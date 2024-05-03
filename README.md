@@ -45,7 +45,7 @@ Board of Secondary Education | Thakshashila Vidya Mandir
 
 
 ### Jan 2018 - Dec 2020				LNP & Co., Chartered Accountants.
-						**System Admin.**
+						System Admin.
 
 Outline
 
@@ -58,7 +58,7 @@ Network Administration
 Security
 
 ### Dec 2014 - Dec 2017				Healthii Curves.
-						**Accounts In-charge.**
+						Accounts In-charge.
 
 Outline
 
@@ -72,7 +72,7 @@ Time management and organizational skills: Manage multiple accounts, prioritize 
 
 
 ### June  2013 - June 2014				Future e-Learning Resources.
-						**SEO(Search Engine Optimization).**
+							SEO(Search Engine Optimization).
 
 Outline
 
@@ -89,7 +89,7 @@ Collaboration.
 
 
 ### June 2007 - April 2012				LNP & Co., Chartered Accountants.
-						**Audit Executive.**
+							Audit Executive.
 
 Outline
 
