@@ -1,4 +1,4 @@
-# Rajesh Karra | Physics Undergrad Student
+# Rajesh Karra | Undergrad Physics Student
 📞 (888) 681-4149 
 📧 [rajesh_karra@outlook.com](rajesh_karra@outlook.com)
 🌐 [rajeshkumarkarra (Rajesh Karra) · GitHub](https://github.com/rajeshkumarkarra)
