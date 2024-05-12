@@ -26,10 +26,10 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 # Education
 
-### BSc (hons) - 
+### BSc (hons) - Osmania University | Hindi Mahavidyalaya |
 Mathematics, Physics and Computer Science (First-class - 7.8) 
 | Aug 2021 - June 2024 |
-### Osmania University | Hindi Mahavidyalaya |
+
 Modules included:
 * Physics - 70%
 * Mathematics - 60%
@@ -37,20 +37,20 @@ Modules included:
 
 Final year project: “Quantum optimization challenge - Get your starship out of a sticky situation!”
 
-### 4 x A Levels / HSC  
+### 4 x A Levels / HSC  - Board of Intermediate | SAV & NV Junior college | 
 (grades AABC) - 57.33% 
 | June 2002 - May 2004 |
-### Board of Intermediate | SAV & NV Junior college | 
+
 Subjects included:
 * Mathematics - C
 * Physics - B
 * Chemistry - A
 * Biology - A
 
-### 12 x GCSs/SSC 
+### 12 x GCSs/SSC - Board of Secondary Education | Thakshashila Vidya Mandir
 (grades A-C) - 57.16% 
 | June 2001 to June 2002 |
-### Board of Secondary Education | Thakshashila Vidya Mandir
+
 
 # Career Summary
 
