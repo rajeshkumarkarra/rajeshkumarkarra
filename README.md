@@ -1,8 +1,8 @@
 # Rajesh Karra | Undergrad Physics Student
 📞 (888) 681-4149 
 📧 <rajesh_karra@outlook.com>
-🌐 [rajeshkumarkarra (Rajesh Karra) · GitHub](https://github.com/rajeshkumarkarra)
-🌐 [https://rajeshkarra.academia.edu](https://rajeshkarra.academia.edu/)
+🌐 <https://github.com/rajeshkumarkarra>
+🌐 <https://rajeshkarra.academia.edu>
 
 
 # Professional Profile
@@ -25,6 +25,19 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 
 # Education
+### Masters(Pursuing)  - University of Hertfordshire, UK |
+Theoretical Physics with Advanced Research
+| Sep 2024 - Sep 2026 |
+
+Modules included:
+* Quantum Field Theory
+* Relativity and Field Theory
+* General Relativity
+* Groups and Representations
+* Lagrangian Dynamics
+* Statistics and Analysis
+* High Energy Astrophysics
+* Physics of Elementary Particles.
 
 ### BSc (hons) - Osmania University | Hindi Mahavidyalaya |
 Mathematics, Physics and Computer Science (First-class - 7.8) 
@@ -36,6 +49,8 @@ Modules included:
 * Computer Science - 60%
 
 Final year project: [“Quantum optimization challenge - Get your starship out of a sticky situation!”](https://docs.google.com/document/d/1bX84MqDfMqo6XauReF9x7Q07c317oGqDscHbnScdiHE/edit?usp=sharing)
+This paper presents a novel application of the Traveling Salesman Problem (TSP) in a time-critical scenario: optimizing debris collection by an autonomous drone during a starship's approach to a black hole. Large debris poses a catastrophic collision threat, necessitating efficient collection along the shortest path.Utilizing precise distance measurements between debris pieces, we formulate the mission as a TSP instance. The acknowledged NP-completeness of TSP highlights the inherent computational challenge. However, by drawing a parallel to the classic traveling salesman scenario, we demonstrate the broader applicability of this problem to various logistical and optimization tasks beyond space exploration.This research investigates the potential of IBM Quantum's QISKIT platform to solve the formulated TSP for debris collection. By exploring the capabilities of quantum computing for this real-world problem, this work aims to contribute to the development of efficient solutions for time-sensitive path optimization within a critical spacefaring context.
+
 
 ### 4 x A Levels / HSC  - Board of Intermediate | SAV & NV Junior college | 
 (grades AABC) - 57.33% 
@@ -50,6 +65,12 @@ Subjects included:
 ### 12 x GCSs/SSC - Board of Secondary Education | Thakshashila Vidya Mandir
 (grades A-C) - 57.16% 
 | June 2001 to June 2002 |
+
+Subjects included:
+* Mathematics
+* Physical Science
+* Biological Science
+* Social Studies
 
 
 # Career Summary
@@ -100,13 +121,13 @@ Key Responsibilities
 
 
 ### June 2004 - April 2013 | LNP & Co., Chartered Accountants.
-Documents & Reporting Executive | Audit Executive.
+Document and Reporting Executive (August 2004 - December 2006) 
+Audit Executive (January 2007 - May 2013).
 
 Outline
 
 Worked for an Audit Executive at LNP & Co. As an Audit Executive watchdog of a company's finances and ensuring financial records are accurate, controls are in place, and regulations are followed.  
-  Document and Reporting Executive (August 2004 - December 2006) 
-  Audit Executive (January 2007 - May 2013.
+  
 
 Key Responsibilities
 Documents & Reporting Executive
