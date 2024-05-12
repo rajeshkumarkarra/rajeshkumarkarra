@@ -147,6 +147,28 @@ Audit Executive
 * Stay Up-to-Date on Regulations and Standards
 * Maintain Audit Quality
 
+# References
+
+### Keerthi 
+Asst. Professor Physics
+Hindi Mahavidyalaya college, affiliated to Osmania University
++91 040-27676330 | <info@hindimahavidyalaya.org>
+Keerthi was my Asst. professor and my faculty for Physics in my Bachelors
+
+### Rama devi 
+Asst. Professor Mathematics
+Hindi Mahavidyalaya college, affiliated to Osmania University
++91 040-27676330 | <info@hindimahavidyalaya.org>
+Rama devi was my Asst. professor and my faculty for Mathematics  in my Bachelors.
+
+### Avinash Pal Lidlaan
+Asst. Professor Computer Science & Applications
+Hindi Mahavidyalaya college, affiliated to Osmania University
++91 040-27676330 | <info@hindimahavidyalaya.org>
+Mr. Avinash was my Asst. professor and my faculty for Computer Science & Applications  in my Bachelors.
+ 
+
+
 
 
 
