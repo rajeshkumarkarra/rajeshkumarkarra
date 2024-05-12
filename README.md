@@ -1,6 +1,6 @@
 # Rajesh Karra | Undergrad Physics Student
 📞 (888) 681-4149 
-📧 [rajesh_karra@outlook.com](rajesh_karra@outlook.com)
+📧 <rajesh_karra@outlook.com>
 🌐 [rajeshkumarkarra (Rajesh Karra) · GitHub](https://github.com/rajeshkumarkarra)
 🌐 [https://rajeshkarra.academia.edu](https://rajeshkarra.academia.edu/)
 
@@ -35,7 +35,7 @@ Modules included:
 * Mathematics - 60%
 * Computer Science - 60%
 
-Final year project: “Quantum optimization challenge - Get your starship out of a sticky situation!”
+Final year project: [“Quantum optimization challenge - Get your starship out of a sticky situation!”](https://docs.google.com/document/d/1bX84MqDfMqo6XauReF9x7Q07c317oGqDscHbnScdiHE/edit?usp=sharing)
 
 ### 4 x A Levels / HSC  - Board of Intermediate | SAV & NV Junior college | 
 (grades AABC) - 57.33% 
@@ -55,7 +55,7 @@ Subjects included:
 # Career Summary
 
 
-### Jan 2018 - Dec 2020	- LNP & Co., Chartered Accountants.
+### Jan 2018 - Dec 2020	| LNP & Co., Chartered Accountants.
 System Admin.
 
 Outline
@@ -68,7 +68,7 @@ Key Responsibilities
 * Network Administration
 * Security
 
-### Dec 2014 - Dec 2017	- Healthii Curves.
+### Dec 2014 - Dec 2017	| Healthii Curves.
 Accounts In-charge.
 
 Outline
@@ -82,7 +82,7 @@ Key Responsibilities
 * Time management and organizational skills: Manage multiple accounts, prioritize tasks effectively, and meet deadlines consistently.
 
 
-### June  2013 - June 2014 - Future e-Learning Resources.
+### June  2013 - June 2014 | Future e-Learning Resources.
 SEO(Search Engine Optimization).
 
 Outline
@@ -99,15 +99,25 @@ Key Responsibilities
 
 
 
-### June 2007 - April 2013 - LNP & Co., Chartered Accountants.
-Audit Executive.
+### June 2004 - April 2013 | LNP & Co., Chartered Accountants.
+Documents & Reporting Executive | Audit Executive.
 
 Outline
 
 Worked for an Audit Executive at LNP & Co. As an Audit Executive watchdog of a company's finances and ensuring financial records are accurate, controls are in place, and regulations are followed.  
-
+  Document and Reporting Executive (August 2004 - December 2006) 
+  Audit Executive (January 2007 - May 2013.
 
 Key Responsibilities
+Documents & Reporting Executive
+
+* Maintaining and organizing client files and records 
+* Preparing and reviewing financial statements 
+* Liaising with clients to gather necessary information 
+* Assisting in the preparation of audit reports
+
+Audit Executive
+
 * Lead the Internal Audit Function
 * Develop and Implement Audit Strategy
 * Conduct Risk Assessments
@@ -117,17 +127,6 @@ Key Responsibilities
 * Maintain Audit Quality
 
 
-### June 2004 -March 2007 - LNP & Co., Chatered Accountants.
-Documents & Reporting Executive.
 
-Outline
-
-Worked as Documents & Reporting executive at LNP & Co. Worked alongside the existing team to understand the fundamental requirements to the company.
-
-Key Responsibilities
-* Maintaining and organizing client files and records 
-* Preparing and reviewing financial statements 
-* Liaising with clients to gather necessary information 
-* Assisting in the preparation of audit reports
 
 
