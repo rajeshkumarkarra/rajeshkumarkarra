@@ -125,9 +125,9 @@ Outline
 Worked as Documents & Reporting executive at LNP & Co. Worked alongside the existing team to understand the fundamental requirements to the company.
 
 Key Responsibilities
-● Maintaining and organizing client files and records 
-● Preparing and reviewing financial statements 
-● Liaising with clients to gather necessary information 
-● Assisting in the preparation of audit reports
+* Maintaining and organizing client files and records 
+* Preparing and reviewing financial statements 
+* Liaising with clients to gather necessary information 
+* Assisting in the preparation of audit reports
 
 
