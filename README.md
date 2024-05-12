@@ -31,9 +31,9 @@ Mathematics, Physics and Computer Science (First-class - 7.8)
 | Aug 2021 - June 2024 |
 ### Osmania University | Hindi Mahavidyalaya |
 Modules included:
-Physics - 70%
-Mathematics - 60%
-Computer Science - 60%
+● Physics - 70%
+● Mathematics - 60%
+● Computer Science - 60%
 
 Final year project: “Quantum optimization challenge - Get your starship out of a sticky situation!”
 
@@ -42,10 +42,10 @@ Final year project: “Quantum optimization challenge - Get your starship out of
 | June 2002 - May 2004 |
 ### Board of Intermediate | SAV & NV Junior college | 
 Subjects included:
-Mathematics - C
-Physics - B
-Chemistry - A
-Biology - A
+● Mathematics - C
+● Physics - B
+● Chemistry - A
+● Biology - A
 
 ### 12 x GCSs/SSC 
 (grades A-C) - 57.16% 
@@ -63,10 +63,10 @@ Outline
 Worked for a System admin at LNP & Co. Worked alongside the existing team to understand the fundamental requirements to the company.
 
 Key Responsibilities
-Maintaining System Uptime and Performance
-User Management and Support
-Network Administration
-Security
+● Maintaining System Uptime and Performance
+● User Management and Support
+● Network Administration
+● Security
 
 ### Dec 2014 - Dec 2017				Healthii Curves.
 						Accounts In-charge.
@@ -76,10 +76,10 @@ Outline
 Worked for an Accounts In-charge at Healthii Curves to maintain books of accounts and conducting Internal Audit.. Worked alongside the statutory audit team to understand the statutory aspects of  the company.
 
 Key Responsibilities
-Business Development and Sales.
-Account management.
-Administrative tasks: Maintain accurate client records, manage sales pipelines, and prepare reports as needed.
-Time management and organizational skills: Manage multiple accounts, prioritize tasks effectively, and meet deadlines consistently.
+● Business Development and Sales.
+● Account management.
+● Administrative tasks: Maintain accurate client records, manage sales pipelines, and prepare reports as needed.
+● Time management and organizational skills: Manage multiple accounts, prioritize tasks effectively, and meet deadlines consistently.
 
 
 ### June  2013 - June 2014				Future e-Learning Resources.
@@ -90,16 +90,16 @@ Outline
 Worked for a SEO at Future e-Learning Resources to help company’s websites rank higher in search results.  
 
 Key Responsibilities
-Keyword Research and Strategy.
-Website Optimization (On-page SEO).
-Content Creation and Link Building (Off-page SEO).
-Analytics and Reporting.
-Staying Informed.
-Collaboration.
+● Keyword Research and Strategy.
+● Website Optimization (On-page SEO).
+● Content Creation and Link Building (Off-page SEO).
+● Analytics and Reporting.
+● Staying Informed.
+● Collaboration.
 
 
 
-### June 2007 - April 2012				LNP & Co., Chartered Accountants.
+### June 2007 - April 2013				LNP & Co., Chartered Accountants.
 							Audit Executive.
 
 Outline
@@ -108,26 +108,26 @@ Worked for an Audit Executive at LNP & Co. As an Audit Executive watchdog of a c
 
 
 Key Responsibilities
-Lead the Internal Audit Function
-Develop and Implement Audit Strategy
-Conduct Risk Assessments
-Perform Internal Audits
-Identify and Report on Control Weaknesses
-Stay Up-to-Date on Regulations and Standards
-Maintain Audit Quality
+● Lead the Internal Audit Function
+● Develop and Implement Audit Strategy
+● Conduct Risk Assessments
+● Perform Internal Audits
+● Identify and Report on Control Weaknesses
+● Stay Up-to-Date on Regulations and Standards
+● Maintain Audit Quality
 
 
-### June 2004 -March 2007			xxxxxxxxxxxxxxxxxxxxxxxxxx
-						xxxxxxxxxxxxxxxxx.
+### June 2004 -March 2007			LNP & Co., Chatered Accountants.
+						Documents & Reporting Executive.
 
 Outline
 
-Worked for a System admin at LNP & Co. Worked alongside the existing team to understand the fundamental requirements to the company.
+Worked as Documents & Reporting executive at LNP & Co. Worked alongside the existing team to understand the fundamental requirements to the company.
 
 Key Responsibilities
-Maintaining System Uptime and Performance
-User Management and Support
-Network Administration
-Security
+● Maintaining and organizing client files and records 
+● Preparing and reviewing financial statements 
+● Liaising with clients to gather necessary information 
+● Assisting in the preparation of audit reports
 
 
