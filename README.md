@@ -147,6 +147,16 @@ Audit Executive
 * Stay Up-to-Date on Regulations and Standards
 * Maintain Audit Quality
 
+# Hobbies
+* Networking
+* Reading professional books or articles
+* Learning new skills
+* Taking online courses
+* Joining professional organizations
+* Creating or updating a portfolio
+* Participating in mentorship programs
+* Building a website
+
 # References
 
 ### Keerthi 
