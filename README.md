@@ -55,8 +55,8 @@ Subjects included:
 # Career Summary
 
 
-### Jan 2018 - Dec 2020				LNP & Co., Chartered Accountants.
-						System Admin.
+### Jan 2018 - Dec 2020	- LNP & Co., Chartered Accountants.
+System Admin.
 
 Outline
 
@@ -68,8 +68,8 @@ Key Responsibilities
 * Network Administration
 * Security
 
-### Dec 2014 - Dec 2017				Healthii Curves.
-						Accounts In-charge.
+### Dec 2014 - Dec 2017	- Healthii Curves.
+Accounts In-charge.
 
 Outline
 
@@ -82,8 +82,8 @@ Key Responsibilities
 * Time management and organizational skills: Manage multiple accounts, prioritize tasks effectively, and meet deadlines consistently.
 
 
-### June  2013 - June 2014				Future e-Learning Resources.
-							SEO(Search Engine Optimization).
+### June  2013 - June 2014 - Future e-Learning Resources.
+SEO(Search Engine Optimization).
 
 Outline
 
@@ -99,8 +99,8 @@ Key Responsibilities
 
 
 
-### June 2007 - April 2013				LNP & Co., Chartered Accountants.
-							Audit Executive.
+### June 2007 - April 2013 - LNP & Co., Chartered Accountants.
+Audit Executive.
 
 Outline
 
@@ -117,8 +117,8 @@ Key Responsibilities
 * Maintain Audit Quality
 
 
-### June 2004 -March 2007			LNP & Co., Chatered Accountants.
-						Documents & Reporting Executive.
+### June 2004 -March 2007 - LNP & Co., Chatered Accountants.
+Documents & Reporting Executive.
 
 Outline
 
