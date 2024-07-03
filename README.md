@@ -26,18 +26,15 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 # Education
 ### Masters(Pursuing)  - University of Hertfordshire, UK |
-Theoretical Physics with Advanced Research
+Advanced Computer Science
 | Sep 2024 - Sep 2026 |
 
 Modules included:
-* Quantum Field Theory
-* Relativity and Field Theory
-* General Relativity
-* Groups and Representations
-* Lagrangian Dynamics
-* Statistics and Analysis
-* High Energy Astrophysics
-* Physics of Elementary Particles.
+* Measures and Models for Software Engineering
+* Programming for Software Engineers
+* Neural Networks and Machine Learning
+* Data Science
+* Computational Algorithms and Paradigms
 
 ### BSc (hons) - Osmania University | Hindi Mahavidyalaya |
 Mathematics, Physics and Computer Science (First-class - 7.8) 
