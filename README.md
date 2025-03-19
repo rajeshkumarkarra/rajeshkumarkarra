@@ -1,105 +1,120 @@
-# Rajesh Karra | Undergrad Physics Student
-📞 +91 (888) 681-4149 
-📧 <rajesh_karra@outlook.com>
-🌐 <https://github.com/rajeshkumarkarra>
-🌐 <https://rajeshkarra.academia.edu>
 
 
-# Professional Profile
-
-Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physics and Computer Science from Osmania University seeking admission to the Master's program in Theoretical Physics at your University. Eager to leverage my strong foundation in programming and fundamentals of Physics  to gain expertise in Theoretical Physics. Aiming to become a research scientist and contribute to the Theoretical Physics and Quantum Computing.
-
-# Core Skills
-
-### Physics/Quantum Computing					
-* IBM Qiskit							
-* FORTRAN							 
-* ROOT Library(CERN)						 
-* Haskell
-### Computer Science
-* Python, Django, Java, Scikit-Learn
-* Pandas, NumPy, Matplotlib
-* JupyterLab, Heroku, Git, aws
-* Linux, Machine Learning 								
+# Rajesh Karra | Machine Learning Engineering
+ +91 (888) 681-4149 | <rajesh_karra@outlook.com> | <https://github.com/rajeshkumarkarra> | <https://rajeshkarra.academia.edu> | <https://www.kaggle.com/rajeshkumarkarra><br>
 
 
+# Statement
 
-# Education
-### Masters(Pursuing)  - University of Hertfordshire, UK |
-Advanced Computer Science
-| Sep 2024 - Sep 2026 |
+Dedicated and motivated recent graduate with a Bachelor's degree in Computer Science
+seeking an entry-level Machine Learning Engineer position to apply theoretical
+knowledge and develop practical skills in machine learning, deep learning, data
+science and Quantum Computing.
 
-Modules included:
-* Measures and Models for Software Engineering
-* Programming for Software Engineers
-* Neural Networks and Machine Learning
-* Data Science
-* Computational Algorithms and Paradigms
-
-### BSc (hons) - Osmania University | Hindi Mahavidyalaya |
-Mathematics, Physics and Computer Science (First-class - 7.8) 
-| Aug 2021 - June 2024 |
-
-Modules included:
-* Physics - 70%
-* Mathematics - 60%
-* Computer Science - 60%
-
-Final year project: [“Quantum optimization challenge - Get your starship out of a sticky situation!”](https://docs.google.com/document/d/1bX84MqDfMqo6XauReF9x7Q07c317oGqDscHbnScdiHE/edit?usp=sharing)
-This paper presents a novel application of the Traveling Salesman Problem (TSP) in a time-critical scenario: optimizing debris collection by an autonomous drone during a starship's approach to a black hole. Large debris poses a catastrophic collision threat, necessitating efficient collection along the shortest path.Utilizing precise distance measurements between debris pieces, we formulate the mission as a TSP instance. The acknowledged NP-completeness of TSP highlights the inherent computational challenge. However, by drawing a parallel to the classic traveling salesman scenario, we demonstrate the broader applicability of this problem to various logistical and optimization tasks beyond space exploration.This research investigates the potential of IBM Quantum's QISKIT platform to solve the formulated TSP for debris collection. By exploring the capabilities of quantum computing for this real-world problem, this work aims to contribute to the development of efficient solutions for time-sensitive path optimization within a critical spacefaring context.
-
-
-### 4 x A Levels / HSC  - Board of Intermediate | SAV & NV Junior college | 
-(grades AABC) - 57.33% 
-
-Subjects included:
-* Mathematics - C
-* Physics - B
-* Chemistry - A
-* Biology - A
-
-### 12 x GCSs/SSC - Board of Secondary Education | Thakshashila Vidya Mandir
-(grades A-C) - 57.16% 
-
-Subjects included:
-* Mathematics
-* Physical Science
-* Biological Science
-* Social Studies
-
-# Hobbies
-* Networking
-* Reading professional books or articles
-* Learning new skills
-* Taking online courses
-* Joining professional organizations
-* Creating or updating a portfolio
-* Participating in mentorship programs
-* Building a website
-
-# References
-
-### Keerthi 
-Asst. Professor Physics
-Hindi Mahavidyalaya college, affiliated to Osmania University
-+91 040-27676330 | <info@hindimahavidyalaya.org>
-Keerthi was my Asst. professor and my faculty for Physics in my Bachelors
-
-### Rama devi 
-Asst. Professor Mathematics
-Hindi Mahavidyalaya college, affiliated to Osmania University
-+91 040-27676330 | <info@hindimahavidyalaya.org>
-Rama devi was my Asst. professor and my faculty for Mathematics  in my Bachelors.
-
-### Avinash Pal Lidlaan
-Asst. Professor Computer Science & Applications
-Hindi Mahavidyalaya college, affiliated to Osmania University
-+91 040-27676330 | <info@hindimahavidyalaya.org>
-Mr. Avinash was my Asst. professor and my faculty for Computer Science & Applications  in my Bachelors.
- 
-
-
-
-
-
-
+<table border="0">
+ <tr>
+ <td><b style="font-size:30px"></b></td>
+ <td><b style="font-size:30px"></b></td>
+ </tr>
+ <tr>
+ <td>
+ <h1>Projects</h1>
+<b>House Price Predection |</b><br>
+> Developed a machine learning model to<br>
+predict house prices using a dataset of
+real estate<br> listings.<br>
+> Preprocessed data, performed feature<br>
+engineering, and applied regression
+algorithms to<br> achieve accurate predictions<br>
+> Technologies Used: Python, scikit-learn,
+pandas, Matplotlib.<br>
+-<br>
+<b>Sentiment Analysis with Deep Learning |</b><br>
+> Implemented a sentiment analysis model
+using a deep learning<br> architecture(LSTM)
+to classify movie reviews as possitive or
+negative.<br>
+> Preprocessed text data, tokenized
+sentences, and created word embeddings for
+analysis.<br>
+> Technologies Used: Python, TensorFlow,
+Natural Language Toolkit (NLTK).<br>
+<b>Hand written digit recognition |</b><br>
+> Built a convolutional neural network
+(CNN) to recognize<br> handwritten digits
+from the MNIST dataset.<br>
+> Achieved high accuracy in digit
+recognition by optimizing<br> model
+architecture and training parameters.<br>
+> Technologies Used: Python, TensorFlow,
+Keras.<br>
+<h1>Certifications</h1>
+> <a href="https://drive.google.com/file/d/15BvvzI_zFDsKMMPUxsSe09E2N8C2uh7N/view">Intro to Machine Learning | Kaggle</a>
+> <a href="https://drive.google.com/file/d/1iuvTbVGgx4RoQKAw__OZ2i0Fx8m1HDG3/view">Python | Kaggle</a><br>
+> <a href="https://drive.google.com/file/d/1BjhuelyFIAvIawNkruqEgANy7WpmdV6Y/view">Pandas | Kaggle</a><br>
+> <a href="https://drive.google.com/file/d/1icFM7lzBFHZ4I22XcPBZI3T5KskP_GVt/view">Data Visualization | Kaggle</a><br>
+> <a href="https://drive.google.com/file/d/1vNRFOBKYulDaILl6jKgzmXojr4qkQwPu/view">Intro to Programming | Kaggle</a><br>
+> <a href="https://drive.google.com/file/d/1E-H1A05hGDZmaAsIL2MVBVINPGqd_iU-/view">Data Cleaning | Kaggle</a><br>
+<h1>Languages</h1>
+> Proficient in English<br>
+> German A1<br><br>
+<h1>References</h1>
+> Available upon request
+</td>
+<td>
+<h1>Technical Skills</h1>
+> Languages: Python, Java and C++<br>
+> Machine Learning
+Frameworks:TensoFlow, Scikit-learn,
+PyTorch<br>
+> Data Manipulation and Analysis:
+Pandas, NumPy<br>
+> Data Visualization: Matplotlib,
+Seaborn<br>
+> Database: SQL<br>
+> Version Control: GIT<br>
+> IDEs: Jupyter notebook, VS Code<br>
+<h1>Machine Learning Skills</h1>
+> Supervised and Unsupervised<br>
+> Deep Learning: Neural Networks,
+CNNs, RNNs<br>
+> Natural Language Processing (NLP)<br>
+> Computer Vision<br>
+> Feature Engineering and Selection<br>
+> Model Evalution and Hyperparameter<br>
+Tuning
+> Data Processing and Cleaning<br>
+> Cross-validation Techniques<br>
+Machine<br>
+<h1>Soft Skills</h1>
+> Problem Solving<br>
+> Analytical Thinking<br>
+> Team work and Collaboration<br>
+> Communication Skills<br>
+> Time Management<br>
+<h1>Education</h1>
+> <strong>2024 – B.Sc. Computer Science</strong><br>
+Osmania University, Hyderabad, TG<br>
+-<br>
+> <strong>Relevant Course work:</strong><br>
+Machine
+Learning, Deep Learning, Data<br>
+Science, Algorithms, Data Structures,<br>
+Statistics, Python, Java, C, C++.<br>
+CGPA: 7.87<br>
+-<br>
+> <strong>Final year Project: "Quantum
+optimization challenge - Get your
+starship out of a sticky situation!"</strong><br>
+This paper explores a unique application of the Traveling Salesman<br>
+ Problem (TSP) to optimize autonomous drone debris collection during<br>
+ a starship's perilous black hole approach. By framing the debris collection<br>
+ task as a TSP instance, we address the critical need for efficient, <br>
+ shortest-path solutions in a time-sensitive spacefaring scenario.<br>
+ Furthermore, we investigate the potential of IBM Quantum's QISKIT platform<br>
+ to solve this NP-complete problem, demonstrating the broader applicability <br>
+ of TSP and exploring the feasibility of quantum computing for real-world logistical
+optimization.
+</td>
+ </tr>
+</table>
