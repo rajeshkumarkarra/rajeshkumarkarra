@@ -63,6 +63,7 @@ Keras.<br>
 </td>
 <td>
 <h1>Technical Skills</h1>
+> Physics/Quantum Computing: IBM Qiskit, FORTRAN, ROOT Library, Haskel 
 > Languages: Python, Java and C++<br>
 > Machine Learning
 Frameworks:TensoFlow, Scikit-learn,
