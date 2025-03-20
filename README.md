@@ -104,7 +104,7 @@ Science, Algorithms, Data Structures,<br>
 Statistics, Python, Java, C, C++.<br>
 CGPA: 7.87<br>
 -<br>
-> <strong>Final year Project:</strong> <a heref = "https://docs.google.com/document/d/e/2PACX-1vTkAwJ5FZi7Mms1N092WcOj8WD-1RTDQmYC5z1goj2s2hgNlVFS2hYjTRQ2Ln0chG_DdqOr0kd89kJJ/pub">"Quantum
+> <strong>Final year Project:</strong> <a href = "https://docs.google.com/document/d/e/2PACX-1vTkAwJ5FZi7Mms1N092WcOj8WD-1RTDQmYC5z1goj2s2hgNlVFS2hYjTRQ2Ln0chG_DdqOr0kd89kJJ/pub">"Quantum
 optimization challenge - Get your
 starship out of a sticky situation!"</a><br>
 This paper explores a unique application of the Traveling Salesman<br>
