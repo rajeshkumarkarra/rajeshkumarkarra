@@ -1,7 +1,7 @@
 
 
 # Rajesh Karra | Machine Learning Engineering
- +91 (888) 681-4149 | <rajesh_karra@outlook.com> | <https://github.com/rajeshkumarkarra> | <https://rajeshkarra.academia.edu> | <https://www.kaggle.com/rajeshkumarkarra><br>
+ +91 (888) 681-4149 | <rajesh_karra@outlook.com> | <https://github.com/rajeshkumarkarra> | <[Huggingface](https://huggingface.co/RajeshKarra)> | <https://www.kaggle.com/rajeshkumarkarra><br>
 
 
 # Statement
